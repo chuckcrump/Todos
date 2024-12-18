@@ -1,2 +1,6 @@
 # Todos
-A simple todo app built with svelte/electron.
+A todo app aimed at simplicity
+### Built with
+* Svelte
+* Tailwindcss
+* Electron

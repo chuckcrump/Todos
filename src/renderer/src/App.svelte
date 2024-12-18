@@ -115,10 +115,6 @@
   </div>
 </div>
 
-<div class="flex flex-col w-44 h-screen top-0 left-0 fixed bg-gray-600">
-  <h1>hi</h1>
-</div>
-
 <style>
   @import './main.css';
   :global(body) {

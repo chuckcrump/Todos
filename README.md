@@ -1,6 +1,5 @@
 # Todos
-A todo app aimed at simplicity
-
+A simple todo app
 ⚠️ **Caution:** This project's code is horrible.
 
 ### Built with
